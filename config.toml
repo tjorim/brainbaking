@@ -5,7 +5,7 @@ theme = "minimal"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 googleAnalytics = "UA-45748221-1"
-publishDir = "docs"
+publishDir = "public"
 enableEmoji = true
 enableRobotsTXT = true
 # for .Lastmod to work with .GitInfo: --enableGitInfo https://gohugo.io/variables/git/
