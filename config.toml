@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Brain Baking"
-baseurl = "https://brainbaking.com/"
+baseurl = "https://tjorim.gitlab.io/brainbaking/"
 theme = "minimal"
 pygmentsUseClasses = true
 pygmentCodeFences = true
