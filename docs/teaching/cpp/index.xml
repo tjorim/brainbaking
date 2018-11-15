@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>wouter.groeneveld@gmail.com (Wouter Groeneveld)</managingEditor>
     <webMaster>wouter.groeneveld@gmail.com (Wouter Groeneveld)</webMaster>
-    <lastBuildDate>Fri, 05 Oct 2018 17:21:02 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 12 Nov 2018 10:01:24 +0100</lastBuildDate>
     
 	<atom:link href="https://brainbaking.com/teaching/cpp/index.xml" rel="self" type="application/rss+xml" />
     
@@ -47,6 +47,18 @@
       <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
       <guid>https://brainbaking.com/teaching/cpp/slides-4/</guid>
       <description>document.write( &#39;&#39; );  mermaid.initialize({ startOnLoad: true, flowchart: { useMaxWidth: true } });          Reveal.initialize({ width: 960, height: 700, controls: true, progress: true, history: true, transition: &#39;fade&#39;, center: true, slideNumber: true, theme: Reveal.getQueryHash().theme, dependencies: [ { src: &#39;https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0//lib/js/classList.js&#39;, condition: function() { return !document.body.classList; } }, { src: &#39;https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0//plugin/markdown/marked.js&#39;, condition: function() { return !!document.querySelector( &#39;[data-markdown]&#39; ); } }, { src: &#39;https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0//plugin/markdown/markdown.js&#39;, condition: function() { return !</description>
+    </item>
+    
+    <item>
+      <title>Een introductie in C(&#43;&#43;) Build Systemen</title>
+      <link>https://brainbaking.com/teaching/cpp/buildsystems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>wouter.groeneveld@gmail.com (Wouter Groeneveld)</author>
+      <guid>https://brainbaking.com/teaching/cpp/buildsystems/</guid>
+      <description>&amp;laquo;&amp;nbsp;Terug naar Software ontwerp in C/C++
+Zie ook labo 1: (herhaaldelijk) compileren
+Een greep uit de mogelijkheden, schematisch samengevat:
+mermaid.initialize({ startOnLoad: true, flowchart: { useMaxWidth: true } });  graph LR; compiler[compiler rechtstreeks uitvoeren] make[Makefiles roepen compiler aan] scons[SCons files roepen compiler aan] cmake[CMake files genereren Makefiles] qmake[QMake files genereren Makefiles] shell[Eigen script roept compiler aan] qmake -- make cmake -- make scons -- compiler make -- compiler shell -- compiler  Hoe compileer ik één file?</description>
     </item>
     
     <item>

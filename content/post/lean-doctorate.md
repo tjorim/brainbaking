@@ -16,7 +16,7 @@ As an _agile_ software engineer, that uncertainty leaves me with an unpleasant f
 
 ### How to be an Agile Academic
 
-Maybe we should ask [Jeff Sutherland](https://www.scrumalliance.org/community/profile/jsutherland) on how to achieve this, but I doubt the SCRUM Alliance principles were in his head when he did his dictorate. Katy Peplin wrote a nice article about [being an agile academic](https://www.katypeplin.com/blog/2017/10/25/be-an-agile-academic) that advocates for principles like getting feedback, fast(er) and using Test Driven Design. As some wise men once said,
+Maybe we should ask [Jeff Sutherland](https://www.scrumalliance.org/community/profile/jsutherland) on how to achieve this, but I doubt the SCRUM Alliance principles were in his head when he did his doctorate. Katy Peplin wrote a nice article about [being an agile academic](https://www.katypeplin.com/blog/2017/10/25/be-an-agile-academic) that advocates for principles like getting feedback, fast(er) and using Test Driven Design. As some wise men once said,
 
 > Fail fast, fail often. 
 
@@ -26,7 +26,7 @@ To fail means to get feedback. To get feedback means to **publish**. That's righ
 
 For example, Katy identified daily stand ups used in agile teams as a useful way to identify what was blocking her progress by doing a stand-up with... yourself! That way she got feedback from herself. A PhD can be a lonely process indeed, but it doesn't have to be that way. You can change that yourself by explicitly asking feedback to your peers, colleagues and friends. 
 
-My way to get feedback is to follow in Jake's footsteps and to simply [publish **everything** on Github](wgroeneveld.github.io/phd). Add a big "feedback" button that redirects to the Github Issues page to invite people who come across your work to leave valuable insights. Why only publishing a paper, if you can publish everything related to your work, including papers? It contains reports of meetings, brainstorms, concept items I'm working on, definitions, bibliography, ... Literally everything. **Document everything** - a useful tip!
+My way to get feedback is to follow in Jake's footsteps and to simply [publish **everything** on Github](https://wgroeneveld.github.io/phd). Add a big "feedback" button that redirects to the Github Issues page to invite people who come across your work to leave valuable insights. Why only publishing a paper, if you can publish everything related to your work, including papers? It contains reports of meetings, brainstorms, concept items I'm working on, definitions, bibliography, ... Literally everything. **Document everything** - a useful tip!
 
 Another way to get feedback if you're developing is using your trusty Unit Tests and Continuous Integration system. As I'm not coding for my PhD, this might not apply, you might think. But actually, I can still take those concepts and try to apply them to my writing:
 
